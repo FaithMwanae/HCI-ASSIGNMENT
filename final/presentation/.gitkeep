@@ -1,1 +1,63 @@
+# HCI Group Project: Final Report
+## Student Lost-and-Found Mobile App
 
+**Course**: Human-Computer Interaction  
+**Project Duration**: 3 Weeks  
+ 
+
+### 1. Executive Summary
+The "Student Lost-and-Found Mobile App" was developed to address the inefficiencies in recovering lost property on campus. Through user research, iterative design, and usability testing, we created a Balsamiq prototype that allows students to report lost/found items, search, and claim belongings. Usability testing with 5 participants yielded an **84% task completion rate** and an average satisfaction score of **4.2/5**.
+
+
+### 2. Problem Definition
+Students currently rely on fragmented physical boxes and social media posts to recover lost items. This causes stress and wasted time. Our app centralizes the process, providing a searchable database accessible from a smartphone.
+
+
+### 3. Design Process
+- **Week 1**: Conducted interviews with 5 students. Identified 3 core user personas (Alex - Busy Senior, Brenda - Worried Sophomore, Charles - Helpful Staff). Drafted functional and usability requirements.
+- **Week 2**: Designed 14 low-fidelity sketches translated into high-fidelity Balsamiq wireframes. Implemented bottom navigation, touch-friendly forms, and linked screens for 3 core scenarios.
+- **Week 3**: Usability testing with 5 representative users. Identified 5 critical issues. Made iterative changes to the prototype (Version 2).
+
+
+### 4. Usability Testing Results
+
+#### Participants
+- 5 University students (Years 1 to 4).
+
+#### Task Performance
+| Task | Success Rate | Average Time |
+| :--- | :--- | :--- |
+| Report a Lost ID Card | 100% (5/5) | 2:15 min |
+| Search for a Phone | 80% (4/5) | 1:30 min |
+| Claim a Found Item | 60% (3/5) | 3:00 min |
+| Report Found Keys | 80% (4/5) | 2:45 min |
+
+#### Key Usability Issues Found
+1. **Claim button not prominent**: 2 users missed it.
+2. **Filters not visible**: 2 users didn't see the filter options.
+3. **Storage option confusion**: Users didn't understand "Keep" vs. "Submit to Security".
+
+
+
+### 5. Design Iterations (Version 2)
+Based on the findings above, we made the following changes:
+1. **Claim Button**: Changed from text to a large, colored button with an icon, positioned at the top of the screen.
+2. **Filters**: Converted filters from small chips to an expandable section with a "Clear Filters" button.
+3. **Storage Option**: Added descriptive icons and tooltips to explain the "Keep/Submit" options clearly.
+4. **Photo Upload**: Added limits (Max 2 for Lost, Max 3 for Found) to the form labels.
+
+
+### 6. Conclusion
+The project successfully demonstrates how HCI principles (consistency, feedback, error prevention) can solve a real campus problem. The iterative testing loop proved essential—user feedback directly shaped the final prototype, resulting in a more intuitive mobile application.
+
+
+### 7. Team Contributions
+
+| Name | Role | Specific Contributions |
+| :--- | :--- | :--- |
+| **[Faith]** | **Project Lead** | GitHub admin, problem statement, final report, README, team coordination. |
+| [Sabdi] | UX Researcher | Conducted 5 interviews, wrote user research summary. |
+| [Ryan] | Requirements | Created 3 personas, defined functional requirements. |
+| [Ezekiel ] | Task Flows | Documented user journeys and task flow diagrams. |
+| [Bryan & Edwin ] | Designer | Created 14 Balsamiq screens, exported PNGs, linked interactions. |
+| [ Edwin & Bryan] | Usability Tester | Wrote test plan, tested 5 users, documented findings, suggested iterations. |
