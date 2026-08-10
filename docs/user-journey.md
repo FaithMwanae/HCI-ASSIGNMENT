@@ -1,8 +1,7 @@
 **USER JOURNEY**
 
 **Student Lost-and-Found Mobile App**
-
-Prepared by: Ezekiel  
+ 
 Role: Task Flows & User Journeys
 
 # 1\. User Journey: Student Who Lost an Item
