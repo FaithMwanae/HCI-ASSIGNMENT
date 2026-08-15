@@ -17,10 +17,10 @@ A mobile application designed to streamline the reporting, searching, and claimi
 | :--- | :--- | :--- |
 | **Project Lead (You)** |Mwanae Faith Mumo | C025-01-0622/2023
 | UX Researcher | Patricia Sabdio  | C025-01-0641/2023 |
-| Requirements & Personas | Ryan  Kipkemboi Too | 
-| Task Flows & Journeys | MACHARIA EZEKIEL  KAMAU| 
+| Requirements & Personas | Ryan  Kipkemboi Too | C025 -01-0651/2023
+| Task Flows & Journeys | MACHARIA EZEKIEL  KAMAU| C025 -01-0654/2023
 | Lead Designer  | BRYAN MUTUNGI KIMILU | C025-01-0640/2023 |
- Assistant Designer EDWIN KIMANI | C025-01-0819/2022 |
+ | Assistant Designer  |EDWIN KIMANI | C025-01-0819/2022 |
 
 ---
 
