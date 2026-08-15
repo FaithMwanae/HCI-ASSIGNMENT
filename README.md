@@ -13,14 +13,14 @@ A mobile application designed to streamline the reporting, searching, and claimi
 
 ##  The Team
 
-| Role | Name | GitHub Handle |
+| Role | Name |REG no |
 | :--- | :--- | :--- |
-| **Project Lead (You)** |Mwanae Faith Mumo |
-| UX Researcher |Sabdi | |
-| Requirements & Personas |Ryan  | [
-| Task Flows & Journeys |EZEKIEL] | 
-| Lead Designer (Balsamiq) | BRYAN & edwin|
-| Usability Tester | EDWIN $ Bryan] | 
+| **Project Lead (You)** |Mwanae Faith Mumo | C025-01-0622/2023
+| UX Researcher | Patricia Sabdio  | C025-01-0641/2023 |
+| Requirements & Personas | Ryan  Kipkemboi Too | 
+| Task Flows & Journeys | MACHARIA EZEKIEL  KAMAU| 
+| Lead Designer  | BRYAN MUTUNGI KIMILU | C025-01-0640/2023 |
+ Assistant Designer EDWIN KIMANI | C025-01-0819/2022 |
 
 ---
 
